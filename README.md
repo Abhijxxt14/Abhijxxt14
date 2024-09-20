@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhijeet soren</h1>
-<h3 align="center">A wannabe full stack developer</h3>
+<h3 align="center">An aspiring front end developer</h3>
 
-- 🌱 I’m currently learning **DSA with java, backend**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **abhijeetsoren222@gmail.com**
 
